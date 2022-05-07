@@ -1,1 +1,1 @@
-# webhook-handler
+# A simple webhook handler
